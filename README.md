@@ -1,13 +1,5 @@
 # 💸 PaisoReader – Currency Detection and Counting Application
 
-<p align="center">
-  <img src="assets/paisoreader-banner.png" alt="PaisoReader Banner" width="1000"/>
-</p>
-
-<p align="center">
-  <strong>Real-Time Currency Detection and Automated Value Calculation using YOLOX, ONNX Runtime, and OpenCV</strong>
-</p>
-
 ---
 
 ## 🌟 Overview
