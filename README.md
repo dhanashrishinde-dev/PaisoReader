@@ -12,37 +12,6 @@ Additionally, the application provides synchronized audio feedback, making it us
 
 ---
 
-## 📸 Application Demo
-
-### Currency Detection
-
-<p align="center">
-  <img src="assets/currency-detection.png" width="1000">
-</p>
-
-The system detects multiple notes simultaneously and identifies their denominations accurately.
-
----
-
-### Real-Time Value Calculation
-
-<p align="center">
-  <img src="assets/value-calculation.png" width="1000">
-</p>
-
-Detected notes are automatically summed to provide the total currency value in real time.
-
----
-
-### Audio Output Integration
-
-<p align="center">
-  <img src="assets/audio-output.png" width="1000">
-</p>
-
-The calculated amount is announced through synchronized audio output for improved accessibility.
-
----
 
 ## 🚀 Key Features
 
